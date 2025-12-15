@@ -1,7 +1,8 @@
 ## Chap Shop
 
-**Project Duration:** August 2024 – Present
-**Role:** Node.js Backend Developer
+**Project Duration:** August 2024 – Present.
+
+**Role:** Node.js Backend Developer.
 
 **Project Description:**
 A large-scale marketplace platform tailored for real businesses in Ivory Coast. The system enables users to purchase products directly from the platform or resell them at a margin. The solution includes a web-based admin panel and multiple mobile applications for different roles (customers, drivers, and inventory managers). The project operates in the e-commerce and logistics domain with integrated payments and real-time communication.
@@ -25,8 +26,9 @@ Node.js, TypeScript, NestJS, REST API, WebSockets, PostgreSQL, Redis, AWS, Wave 
 
 ## Mosawer
 
-**Project Duration:** March 2024 – August 2024
-**Role:** Node.js Backend Developer
+**Project Duration:** March 2024 – August 2024.
+
+**Role:** Node.js Backend Developer.
 
 **Project Description:**
 A mobile application that connects professional photographers and videographers with potential clients. The platform allows service providers to create and manage profiles, showcase their portfolios, and promote photography and videography services for weddings and other events. Clients can browse specialists, view portfolios, and initiate contact. The project operates in the services marketplace domain.
@@ -49,8 +51,9 @@ Node.js, TypeScript, NestJS, GraphQL, PostgreSQL, DigitalOcean, JWT.
 
 ## Waridly
 
-**Project Duration:** December 2023 – August 2024
-**Role:** Node.js Backend Developer
+**Project Duration:** December 2023 – August 2024.
+
+**Role:** Node.js Backend Developer.
 
 **Project Description:**
 A multi-vendor marketplace for a client from Kuwait, allowing third-party suppliers to sell products directly to end users through a centralized platform. The system supports supplier management, order processing, advanced search, and multiple regional payment methods. The project operates in the e-commerce domain.
@@ -74,8 +77,9 @@ Node.js, TypeScript, NestJS, REST API, PostgreSQL, Elasticsearch, DigitalOcean, 
 
 ## Express Yourself CRM
 
-**Project Duration:** July 2023 – November 2023
-**Role:** Node.js Backend Developer
+**Project Duration:** July 2023 – November 2023.
+
+**Role:** Node.js Backend Developer.
 
 **Project Description:**
 A CRM-based mobile application that facilitates interaction between hair salon staff and clients. The system supports appointment scheduling, client management, and real-time communication. The project belongs to the beauty services and CRM domain.
@@ -97,8 +101,9 @@ Node.js, TypeScript, NestJS, GraphQL, WebSockets, TypeORM, PostgreSQL, DigitalOc
 
 ## Go Clients Tech
 
-**Project Duration:** March 2023 – June 2023
-**Role:** Node.js Backend Developer
+**Project Duration:** March 2023 – June 2023.
+
+**Role:** Node.js Backend Developer.
 
 **Project Description:**
 A healthcare platform designed to enable interaction between clinics and patients. The system was implemented as a monolithic application within the microservice architecture, and supports appointment management, medical data handling, and inter-service communication. The project operates in the healthcare domain.
@@ -122,8 +127,9 @@ Node.js, TypeScript, NestJS, Kafka, gRPC, GraphQL, TypeORM, PostgreSQL, AWS, Jes
 
 ## KPS Financial LAB
 
-**Project Duration:** November 2022 – February 2023
-**Role:** Node.js Backend Developer
+**Project Duration:** November 2022 – February 2023.
+
+**Role:** Node.js Backend Developer.
 
 **Project Description:**
 A CRM system for a financial organization, enabling managers to interact with clients, manage financial data, and track communication history. The project belongs to the financial services domain.
@@ -143,8 +149,9 @@ Node.js, TypeScript, NestJS, GraphQL, TypeORM, PostgreSQL, JWT.
 
 ## Travel Application
 
-**Project Duration:** October 2022 – February 2023
-**Role:** Node.js Backend Developer
+**Project Duration:** October 2022 – February 2023.
+
+**Role:** Node.js Backend Developer.
 
 **Project Description:**
 A mobile application for searching, booking, and managing tours and hotels. The system integrates with an external travel gateway to retrieve offers and availability. The project operates in the travel and tourism domain.
@@ -165,8 +172,9 @@ Node.js, TypeScript, NestJS, REST API, TypeORM, PostgreSQL.
 
 ## Estimale
 
-**Project Duration:** August 2022 – October 2022
-**Role:** Node.js Backend Developer
+**Project Duration:** August 2022 – October 2022.
+
+**Role:** Node.js Backend Developer.
 
 **Project Description:**
 An internal product developed for managing projects, tasks, and workflows within the company. The system is designed to improve team productivity and internal process transparency.
@@ -185,8 +193,9 @@ Node.js, TypeScript, NestJS, GraphQL, TypeORM, PostgreSQL, JWT.
 
 ## Xtips
 
-**Project Duration:** June 2022 – August 2022
-**Role:** Node.js Backend Developer
+**Project Duration:** June 2022 – August 2022.
+
+**Role:** Node.js Backend Developer.
 
 **Project Description:**
 A mobile application designed for waiters and other service industry professionals to receive tips digitally. Service staff can generate and display a QR code that allows customers to send tips directly via online payment. The platform includes payment processing and transaction management and operates in the fintech and hospitality domain.
@@ -208,8 +217,9 @@ Node.js, JavaScript, Express.js, REST API, Stripe, MySQL, Sequelize, JWT.
 
 ## Freediving-Space
 
-**Project Duration:** April 2022 – June 2022
-**Role:** Node.js Backend Developer
+**Project Duration:** April 2022 – June 2022.
+
+**Role:** Node.js Backend Developer.
 
 **Project Description:**
 A web platform created for a freediving company. The application allows the owner to present their expertise, share underwater photography and videography, and publish articles and posts about freediving experience. The platform serves as both a personal brand website and a service promotion tool in the sports and lifestyle domain.
