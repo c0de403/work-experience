@@ -183,32 +183,6 @@ Node.js, TypeScript, NestJS, GraphQL, TypeORM, PostgreSQL, JWT.
 
 ---
 
-## Other Projects
-
-**Project Duration:** April 2022 – August 2022
-**Role:** Node.js Backend Developer
-
-**Project Description:**
-Multiple smaller web applications across different domains:
-
-* **Freediving-Space:** A platform for offering freediving services
-* **Xtips:** A web application for restaurant employees and customer interaction
-
-**Responsibilities:**
-
-* Developed backend services using Express.js
-* Implemented GraphQL APIs
-* Worked with both SQL and NoSQL databases
-* Implemented authentication using JWT
-* Designed and implemented REST and GraphQL endpoints
-
-**Technologies:**
-Node.js, JavaScript, Express.js, GraphQL, MySQL, MongoDB, Sequelize, Mongoose, JWT
-
-Below are **two separate, corporate-style project entries**, rewritten in English and aligned with enterprise CV standards.
-
----
-
 ## Xtips
 
 **Project Duration:** June 2022 – August 2022
